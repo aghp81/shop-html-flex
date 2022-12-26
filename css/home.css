@@ -1,9 +1,10 @@
 header{
-
+    
 }
 
 header nav{
-
+    display: flex;
+    justify-content: space-between;
 }
 
 header nav .nav-right{
@@ -19,5 +20,17 @@ header nav .nav-right a i{
 }
 
 header nav .nav-left{
+    
+}
+
+header nav .nav-left .register-login-btn{
+    
+}
+
+header nav .nav-left .register-login-btn i{
+    
+}
+
+header nav .nav-left .register-login-btn a{
     
 }
