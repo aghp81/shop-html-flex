@@ -5,6 +5,8 @@ header{
 header nav{
     display: flex;
     justify-content: space-between;
+    padding: 10px 15px;
+    font-size: 1em;
 }
 
 header nav .nav-right{
