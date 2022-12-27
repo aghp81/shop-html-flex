@@ -2,6 +2,8 @@ header{
     font-size: 1em;
 }
 
+/*  Navigation Section  */
+
 header nav{
     display: flex;
     justify-content: space-between;
@@ -41,4 +43,39 @@ header nav .nav-left .register-login-btn a{
     color: #444;
     margin: 0px 10px;
     font-size: 0.9em;
+}
+
+/*  Slider Section  */
+
+.slider{
+    position: relative;
+}
+
+.slider .slides{
+    
+}
+
+.slider .slides .item{
+    
+}
+
+.slider .slides .item .img{
+    
+}
+
+.slider .slides .item .span{
+    
+}
+
+.slider .slides .active{
+    
+}
+
+
+.slider .buttons{
+    position: absolute;
+}
+
+.slider .buttons .i{
+
 }
