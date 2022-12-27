@@ -65,8 +65,12 @@ header nav .nav-left .register-login-btn a{
     width: 100%;
 }
 
-.slider .slides .item .span{
+.slider .slides .item span{
     position: absolute;
+    color: #222;
+    right: 10%;
+    top: 40%;
+    font-size: 1.5em;
 }
 
 .slider .slides .active{
@@ -76,8 +80,19 @@ header nav .nav-left .register-login-btn a{
 
 .slider .buttons{
     position: absolute;
+    bottom: 30px;
+    left: 40px;
+    z-index: 1;
 }
 
-.slider .buttons .i{
+.slider .buttons i{
+    color: white;
+    margin-right: 5px;
+    cursor: pointer;
+}
 
+.slider .buttons i:hover{
+    color: rgba(255, 255, 255, .4);
+    margin-right: 5px;
+    cursor: pointer;
 }
