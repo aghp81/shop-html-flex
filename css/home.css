@@ -56,7 +56,7 @@ header nav .nav-left .register-login-btn a{
 }
 
 .slider .slides .item{
-    
+    position: relative;
 }
 
 .slider .slides .item .img{
@@ -64,7 +64,7 @@ header nav .nav-left .register-login-btn a{
 }
 
 .slider .slides .item .span{
-    
+    position: absolute;
 }
 
 .slider .slides .active{
